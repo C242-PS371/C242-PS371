@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **C242-PS371/C242-PS371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there 👋, We are Team C242-PS371 Capstone Rise 2024 Batch 2<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Learning+Path+Machine+learning+%3A+;(ML)+Ahmad+Arif;(ML)+Nanda+Putri+Korina;(ML)+Tommy+Gunawan;Learning+Path+Cloud+Computing+%3A+;(CC)++Farhah+Salsabillah;(CC)+Wiranto+Mohammad+Ginanjar;Learning+Path+Mobile+Development+%3A+;(MD)+Muhammad+Rafli+Silehu" alt="Typing SVG" /></a>
+</p>
+
+<img src="https://camo.githubusercontent.com/f52151760dd2f6925b8e08c99a45456fbcdb5faeecf3df991c73f3fc5c0091b3/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41686d6164417269666666266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="NnA301023" data-canonical-src="https://komarev.com/ghpvc/?username=AhmadArifff&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
